@@ -1,0 +1,2 @@
+# CRM-sqlite
+coding - python
